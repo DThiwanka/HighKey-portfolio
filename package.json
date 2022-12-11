@@ -1,0 +1,21 @@
+{
+  "name": "highkeyportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for HighKey project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DThiwanka/HighKey-portfolio.git"
+  },
+  "author": "Dulaj Thiwanka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
