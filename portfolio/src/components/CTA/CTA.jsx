@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+function CTA() {
   return (
     <div className='text-center mt-1 bg-gray-600 h-[30rem]'>
-      Home
-    </div>
+    Home
+  </div>
   )
 }
 
-export default Home
+export default CTA

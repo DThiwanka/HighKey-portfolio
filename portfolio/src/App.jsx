@@ -1,14 +1,15 @@
-import './App.css'
-import Home from './components/home/home'
-import Navbar from './components/navbar/navbar'
+import React from 'react'
+import CTA from './components/CTA/CTA'
+import Home from './components/Home/Home'
+import Navbar from './components/navbar/Navbar'
+
 
 function App() {
-
-
   return (
-    <div className="App">
+    <div>
       <Navbar/>
       <Home/>
+      <CTA/>
     </div>
   )
 }
