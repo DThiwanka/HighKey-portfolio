@@ -1,11 +1,11 @@
 import React from 'react'
 
-function CTA() {
+function Skills() {
   return (
     <div className='text-center mt-1 bg-gray-600 '>
-    CTA
-  </div>
+      Skills
+    </div>
   )
 }
 
-export default CTA
+export default Skills

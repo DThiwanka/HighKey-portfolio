@@ -1,11 +1,11 @@
 import React from 'react'
 
-function CTA() {
+function Contact() {
   return (
     <div className='text-center mt-1 bg-gray-600 '>
-    CTA
-  </div>
+      Contact
+    </div>
   )
 }
 
-export default CTA
+export default Contact
