@@ -8,13 +8,14 @@ import Skills from './components/Skills/Skills'
 import Education from './components/Education/Education'
 import Exp from './components/Experience/Exp'
 import Contact from './components/Contact/Contact'
+import Footer from './components/footer/Footer'
 
 
 function App() {
   return (
     <div>
       <Navbar />
-      <Home />
+      <Home/>
       <CTA />
       <About />
       <Work />
@@ -22,6 +23,7 @@ function App() {
       <Education />
       <Exp />
       <Contact />
+      <Footer/>
     </div>
   )
 }

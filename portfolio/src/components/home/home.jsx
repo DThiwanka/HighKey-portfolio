@@ -3,75 +3,50 @@ import bgimg from '../../assets/pexels-photo-6739698.jpeg'
 
 function Home() {
   return (
-    <div className='mt-1 mr-1 ml-1'>
-
-      <div className='lg:bg-orange-800 justify-center h-auto text-center w-auto sm:bg-blue-900'>
-        <h1 className='leading-4 font-bold underline-offset-4 sm:font-serif'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-        <h1 className='leading-4 font-bold underline-offset-4'>Test</h1>
-      
-      
+    <div>
+<main class="py-16 bg-gray-100">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="lg:grid lg:grid-cols-3 lg:gap-8">
+      <div class="mb-16 lg:mb-0">
+        <h2 class="text-2xl font-bold text-gray-900">
+          Section 1
+        </h2>
+        <p class="mt-4 text-gray-600">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Phasellus malesuada, quam a vulputate dictum, diam urna 
+          fermentum arcu, a scelerisque quam eros eget velit. 
+        </p>
       </div>
+      <div class="mb-16 lg:mb-0">
+        <h2 class="text-2xl font-bold text-gray-900">
+          Section 2
+        </h2>
+        <p class="mt-4 text-gray-600">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Phasellus malesuada, quam a vulputate dictum, diam urna 
+          fermentum arcu, a scelerisque quam eros eget velit. 
+        </p>
+      </div>
+      <div class="mb-16 lg:mb-0">
+        <h2 class="text-2xl font-bold text-gray-900">
+          Section 3
+        </h2>
+        <p class="mt-4 text-gray-600">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Phasellus malesuada, quam a vulputate dictum, diam urna 
+          fermentum arcu, a scelerisque quam eros eget velit. 
+        </p>
+      </div>
+    </div>
+  </div>
+</main>
+
+
+
 
     </div>
+
+
   )
 }
 

@@ -66,8 +66,6 @@ function Work() {
       <h1 className='leading-4 font-bold underline-offset-4'>Work</h1>
       <h1 className='leading-4 font-bold underline-offset-4'>Work</h1>
       <h1 className='leading-4 font-bold underline-offset-4'>Work</h1>
-    
-    
     </div>
 
   </div>
