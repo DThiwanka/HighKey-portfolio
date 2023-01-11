@@ -1,4 +1,5 @@
 import { FiGithub, FiTwitter, FiInstagram,FiDatabase,FiGlobe} from 'react-icons/fi';
+
 const socialLinks = [
 	{
 		id: 1,
