@@ -17,12 +17,13 @@ function App() {
     <div className='className=" bg-secondary-light dark:bg-primary-dark transition duration-300"'>
 				<Router>
 					
-					<Navbar />
+					<Navbar className="mb-1 mt-1" />
 					<Routes>
 						<Route path="/" element={<Home />} />
 						<Route path="about" element={<About />} />
 						<Route path="work" element={<Work />} />
 						<Route path="skills" element={<Skills />} />
+            <Route path="education" element={<Education />} />
 					</Routes>
 					<Footer />
 				</Router>

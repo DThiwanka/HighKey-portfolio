@@ -3,7 +3,28 @@ import React from 'react'
 function Education() {
   return (
     <div className='container mt1 bg-red-600 '>
-      Education
+      Education<br/>
+
+      Education<br/>
+      Education<br/>Education<br/>
+      Education<br/>
+      Education<br/>
+      Education<br/>
+      Education<br/>
+      Education<br/>
+
+    
+      Education<br/>
+      Education<br/>
+      Education<br/>
+      
+      Education<br/>
+
+
+      Education<br/>
+      Education<br/>
+      Education<br/>
+     
     </div>
   )
 }
