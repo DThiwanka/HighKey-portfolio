@@ -14,19 +14,23 @@ import Footer from './components/footer/Footer'
 
 function App() {
   return (
+
     <div className='className=" bg-secondary-light dark:bg-primary-dark transition duration-300"'>
+      	 
 				<Router>
 					
-					<Navbar className="mb-1 mt-1" />
 					<Routes>
 						<Route path="/" element={<Home />} />
-						<Route path="about" element={<About />} />
-						<Route path="work" element={<Work />} />
-						<Route path="skills" element={<Skills />} />
-            <Route path="education" element={<Education />} />
+						<Route path="/about" element={<About />} />
+						<Route path="/work" element={<Work />} />
+						<Route path="/skills" element={<Skills />} />
+            <Route path="/CTA" element={<CTA />} />
+            <Route path="/Exp" element={<Exp />} />
+            <Route path="/Contact" element={<Contact />} />
 					</Routes>
-					<Footer />
+				
 				</Router>
+        <Footer />
 				
 			</div>
 
